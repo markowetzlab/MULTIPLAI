@@ -2,7 +2,7 @@
   <img src="MULTIPLAI.jpg" width="400" />
 </p>
 
-# MULTIPLAI
+# MULTIPLAI: Predictive Modelling of Highly Multiplexed Tumour Tissue Images by Graph Neural Networks
 This is the repository for the manuscript "Predictive Modelling of Highly Multiplexed Tumour Tissue Images by Graph Neural Networks" by Martin-Gonzalez et al.
 
 <p align="center">
