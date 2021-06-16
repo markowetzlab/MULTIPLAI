@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="fig1_final.jpg" width="400" />
+  <img src="MULTIPLAI.jpg" width="400" />
 </p>
 
 # MULTIPLAI
 This is the repository for the manuscript "Predictive Modelling of Highly Multiplexed Tumour Tissue Images by Graph Neural Networks" by Martin-Gonzalez et al.
 
 <p align="center">
-  <img src="fig1_final.jpg" width="400" />
+  <img src="fig1_v3.jpg" width="400" />
 </p>
 
 In this manuscript, we present MULTIPLAI  (MULTIplexed PathoLogy AI), a novel framework to predict clinical biomarkers from highly multiplexed imaging data. The method relies on attention-based graph neural networks that integrate both the phenotypic and spatial dimensions, capturing Tumour MicroEnvironment Differences. For this proof- of-concept study, we used MULTIPLAI to predict oestrogen receptor status, a key clinical variable for breast cancer patients, from Imaging Mass Cytometry (IMC). 
