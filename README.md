@@ -31,12 +31,11 @@ For training the geometric deep learning models, we used [Pytorch](https://pytor
 
 This repository is organised as follows:
 
-1. **Building graphs:** this folder contains the jupyter notebook to build the graphs from IMC images as described in section 2.1 of the manuscript. 
+1. **Building graphs:** this is the jupyter notebook to build the graphs from IMC images as described in section 2.1 of the manuscript and to perform the different strategies for scaling the data as described in section 4.3 of the manuscript.
    - The "single_cell_data.csv", "Basel.csv" and "Zurich.csv" make reference to the files from each of the public repositories mentioned above. **They need to be downloaded from their respective repositories (i.e. they are not provided or maintained by us)**
-3. **Pre-processing data**: contains the jupyter notebook to select the stains that were going to be used for the analysis and to perform the different strategies for scaling the data as described in section 4.3 of the manuscript.
-5. **Finding the best architecture**: jupyter notebook to extract the results presented in section 4.2 of the manuscript.
+2. **Finding the best architecture**: jupyter notebook to extract the results presented in section 4.2 of the manuscript. Folder "code" contains the code to run the different models.
    - Sub-folder *results* for each architecture and each combination of hyperparameters as described in section 4.2 of the manuscript. 
-8. **Validating the best architecture**: The trained best architecture from section 4.2 is provided as well as the code for validating the results under different pre-processing conditions as presented in section 4.3 of the manuscript.
+3. **Validating the best architecture**: The trained best architecture from section 4.2 is provided as well as the code for validating the results under different pre-processing conditions as presented in section 4.3 of the manuscript.
 
 Inputs are provided here due to their large size: https://drive.google.com/drive/folders/1uZ3Ys7uR5SOukBwzOTNu4GRCIsawqyUx?usp=sharing
    - The resulting graphs are provided together with the raw supercell features and the two preprocessing strategies described in the manuscript. 
