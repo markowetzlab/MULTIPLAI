@@ -1,0 +1,2 @@
+Using backend: pytorch
+/var/spool/slurm/slurmd/job42217969/slurm_script: line 62: 1*: syntax error: operand expected (error token is "")
