@@ -41,8 +41,4 @@ This repository is organised as follows:
    - Sub-folder *results* for each architecture and each combination of hyperparameters as described in section 4.2 of the manuscript. 
 3. **Validating the best architecture**: The trained best architecture from section 4.2 is provided as well as the code for validating the results under different pre-processing conditions as presented in section 4.3 of the manuscript.
 
-Inputs are provided here due to their large size: https://drive.google.com/drive/folders/1uZ3Ys7uR5SOukBwzOTNu4GRCIsawqyUx?usp=sharing
-   - The resulting graphs are provided together with the raw supercell features and the two preprocessing strategies described in the manuscript. 
-   - Train, development and internal test set splits used for this study are provided. 
-  
 **Although we tried to seed everything, pytorch doesn't allow everything to be seed so please expect some variability on the actual numbers**. The codes and results provided here are the ones we used for our analysis reported in the manuscript.
