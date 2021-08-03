@@ -11,7 +11,7 @@ This is the repository for the manuscript "Predictive Modelling of Highly Multip
 
 In this manuscript, we present MULTIPLAI  (MULTIplexed PathoLogy AI), a novel framework to predict clinical biomarkers from highly multiplexed imaging data. The method relies on attention-based graph neural networks that integrate both the phenotypic and spatial dimensions, capturing Tumour MicroEnvironment Differences. For this proof- of-concept study, we used MULTIPLAI to predict oestrogen receptor status, a key clinical variable for breast cancer patients, from Imaging Mass Cytometry (IMC). 
 
-The preprint can be accessed here:
+The preprint can be accessed here: [https://www.medrxiv.org/content/10.1101/2021.07.28.21261179v1](https://www.medrxiv.org/content/10.1101/2021.07.28.21261179v1)
 
 ## DATA USED:
 
